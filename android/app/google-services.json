@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786535341118",
+    "project_id": "boatsline-11155",
+    "storage_bucket": "boatsline-11155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786535341118:android:f288b9de30f6e8d4e7056f",
+        "android_client_info": {
+          "package_name": "com.example.boats_lineseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786535341118-qgoljhkemivkc1g6lj23q7ks75tle9r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lX7tZausuTRnqQCtPWJT-o1xqbYDDqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786535341118-qgoljhkemivkc1g6lj23q7ks75tle9r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
